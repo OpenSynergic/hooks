@@ -21,11 +21,7 @@
             "OpenSynergic\\Hooks\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "OpenSynergic\\Hooks\\Tests\\": "tests"
-        }
-    },
+    "autoload-dev": [],
     "scripts": {
         "analyse": "vendor/bin/phpstan analyse",
         "test": "vendor/bin/pest",
