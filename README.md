@@ -1,6 +1,6 @@
 # Hook
 
-Hook description.
+Implementation of [OJS](http://github.com/pkp/pkp-lib) Hook on Laravel
 
 ## Installation
 
